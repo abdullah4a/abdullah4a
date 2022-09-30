@@ -38,3 +38,5 @@ Contact Me:     abdullahkhan4a@gmail.com
 Press ENTER to exit console. ...
 
 ```
+[Code to print it in C++](https://github.com/abdullah4a/abdullah4a/blob/main/main.cpp)
+[Compiled Code](https://onlinegdb.com/dVCSz5G2m)
