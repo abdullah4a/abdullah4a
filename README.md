@@ -40,12 +40,12 @@ One Off Meeting for freelance:
 ```
 Working On 🔭 and learning 🌱:
 
-✨ __ Spring Boot 💖__ ✨
-✨ __ Java 💖__ ✨
-✨ __ VueJs 💖__ ✨
-✨ __ JavaScript/TypeScript 💖__ ✨
-✨ __ Python 💖__ ✨ 
-✨ __ C/C++ 💖__ ✨
+✨ __ Spring Boot __ ✨
+✨ __ Java __ ✨
+✨ __ VueJs __ ✨
+✨ __ JavaScript/TypeScript __ ✨
+✨ __ Python __ ✨ 
+✨ __ C/C++ __ ✨
 Communication Skills:
 
 ✨ __Urdu __ ✨
