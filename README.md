@@ -38,6 +38,9 @@ One Off Meeting for freelance:
 [Create Meet](https://calendly.com/d/dzc-2hm-86m/one-off-meeting) 
 
 ```
+Currently Working on 🌱:
+✨ __ Django __ ✨
+✨ __ React Js __ ✨
 Working On 🔭 and learning 🌱:
 
 ✨ __ Spring Boot __ ✨
