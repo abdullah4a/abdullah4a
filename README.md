@@ -1,6 +1,6 @@
 # Assalam O Alaikum
 
-## Codded Adbout me
+## Codded About me
   * Simple but better for start
 
 ### Hello World 👋
