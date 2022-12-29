@@ -57,18 +57,21 @@ Communication Skills:
 ```
 
 ☎ Ping me: 
-[![Gmail_Logo_16px](https://user-images.githubusercontent.com/45167847/208147687-02b00408-3980-4cd6-aad3-bd071d13a55f.png)](abdullahkhan4a@gmail.com)
-[<img src="https://user-images.githubusercontent.com/45167847/208148118-ad0cec1b-5c15-4f67-8ec6-d6a2ba0e5854.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/abdullah-iqbal-7b644b136/)
+
+[Gmail:  ![Gmail_Logo_16px](https://user-images.githubusercontent.com/45167847/208147687-02b00408-3980-4cd6-aad3-bd071d13a55f.png)](abdullahkhan4a@gmail.com)
+
+[LinkedIn: <img src="https://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/16/linkedin-icon.png" alt="drawing"/>](https://www.linkedin.com/in/abdullah-iqbal-7b644b136/)
 
 
-[<img src="https://user-images.githubusercontent.com/45167847/208148355-e3b46538-1abd-49f4-8092-29804eaafc11.png" alt="drawing" width="200"/>](https://app.bio.link/dashboard/links)
+[<img src="https://user-images.githubusercontent.com/45167847/208148355-e3b46538-1abd-49f4-8092-29804eaafc11.png" alt="drawing" width="250"/>](https://app.bio.link/dashboard/links)
 
 
 
 ... Program finished with exit code 0
 Press ENTER to exit console. ...
 
-[![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdullah4a&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdullah4a&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah4a&" alt="abdullah4a" /></p>
 
 [Code to print it in C++](https://github.com/abdullah4a/abdullah4a/blob/main/main.cpp)
 
