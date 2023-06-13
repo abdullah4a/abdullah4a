@@ -19,28 +19,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```
+<img src="https://digiday.com/wp-content/uploads/sites/3/2021/02/stressed-ceo-02.jpg" alt="Person Computer">
 
 I'm Abdullah pronounce as Abdullah 😄
 
-Woking from Home
-Country:        Pakistan
-One to one :    
+-  I’m currently working on **Django**
+- 👯 I’m looking to collaborate on **OPEN SOURCE**
+- 💬 Ask me about **SPRING, DJANGO, VUE,** and **REACT**
+- 😄 Pronouns: Mr./He/Him
+### 📫 How to reach me:
 
-``` 
+One to one :
+
 [Create Meet](https://calendly.com/abdullah4a/30min)
 
-```
 One Off Meeting for freelance:  
 
-``` 
 [Create Meet](https://calendly.com/d/dzc-2hm-86m/one-off-meeting) 
+
+### ☎ Ping me: 
+
+[![Gmail_Logo_16px](https://icons.iconarchive.com/icons/cornmanthe3rd/squareplex/72/Communication-gmail-icon.png)](abdullahkhan4a@gmail.com) [<img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/72/Linkedin-icon.png" alt="drawing"/>](https://www.linkedin.com/in/abdullah-iqbal-7b644b136/)
+
+[<img src="https://user-images.githubusercontent.com/45167847/208148355-e3b46538-1abd-49f4-8092-29804eaafc11.png" alt="drawing" width="250">](https://app.bio.link/dashboard/links)
+
 
 ```
 Currently Working on 🌱:
+
 ✨ __ Django __ ✨
 ✨ __ React Js __ ✨
+
 Working On 🔭 and learning 🌱:
 
 ✨ __ Spring Boot __ ✨
@@ -49,23 +58,12 @@ Working On 🔭 and learning 🌱:
 ✨ __ JavaScript/TypeScript __ ✨
 ✨ __ Python __ ✨ 
 ✨ __ C/C++ __ ✨
+
 Communication Skills:
 
 ✨ __Urdu __ ✨
 ✨ __English __ ✨
-✨ __Punjabi __ ✨
 ```
-
-☎ Ping me: 
-
-[Gmail:  ![Gmail_Logo_16px](https://user-images.githubusercontent.com/45167847/208147687-02b00408-3980-4cd6-aad3-bd071d13a55f.png)](abdullahkhan4a@gmail.com)
-
-[LinkedIn: <img src="https://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/16/linkedin-icon.png" alt="drawing"/>](https://www.linkedin.com/in/abdullah-iqbal-7b644b136/)
-
-
-[<img src="https://user-images.githubusercontent.com/45167847/208148355-e3b46538-1abd-49f4-8092-29804eaafc11.png" alt="drawing" width="250"/>](https://app.bio.link/dashboard/links)
-
-
 
 ... Program finished with exit code 0
 Press ENTER to exit console. ...
